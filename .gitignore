@@ -1,0 +1,27 @@
+# LÖVE 2D specific ignores
+*.love
+*.zip
+*.exe
+*.app
+*.dmg
+*.deb
+*.rpm
+*.apk
+*.ipa
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.bak
+*~
+# Other common temporary files
+temp/
+tmp/
+log/
