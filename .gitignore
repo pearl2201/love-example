@@ -15,7 +15,6 @@ Thumbs.db
 Desktop.ini
 
 # IDE/Editor specific files
-.vscode/
 .idea/
 *.sublime-project
 *.sublime-workspace
